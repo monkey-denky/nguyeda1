@@ -1,5 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working at @apify as a fullstack developer
+- ⚡  I really like automating things
+- 🌱 Clean code enthusiast
 
+[![Denky's github stats](https://github-readme-stats.vercel.app/api?username=nguyeda1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyeda1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nguyeda1/nguyeda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
